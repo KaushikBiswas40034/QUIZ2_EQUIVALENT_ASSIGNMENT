@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.Properties.Resources.resources
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\bin\Debug\Final_Term_Assignment.exe.config
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\bin\Debug\Final_Term_Assignment.exe
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\bin\Debug\Final_Term_Assignment.pdb
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.exe
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.pdb
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.Views.allbooks.resources
+C:\Users\Asus\Desktop\Final_Term_Assignment\Final_Term_Assignment\obj\Debug\Final_Term_Assignment.Views.DetailsBook.resources
